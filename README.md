@@ -25,7 +25,7 @@ dove **N** = è una forza in **Newton**, **A** una corrente in **Ampere**, **m**
 # Forza tra due fili con corrente
 Forza = k * i<sub>1</sub> * i<sub>2</sub> * l / d
 #
-dove k = 2 * 10<sup>-7</sup> [Newton / Ampere<sup>2</sup>] 
+dove k = 2 * 10<sup>-7</sup> [Newton / Ampere<sup>2</sup>], l = lunghezza comune ai due fili, d = distanza tra i due fili
 #
 B = u<sub>0</sub> * N * I / lung
 dove u<sub>0</sub> [T * m / A]
