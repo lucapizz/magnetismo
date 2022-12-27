@@ -21,5 +21,5 @@ Ricordare che l'unità di misura Tesla è composta come segue:
 #
 T = N / (A m)
 #
-dove N = è una forza in Newton, A una corrente in Ampere, m una distanza in metri.
+dove **N** = è una forza in **Newton**, **A** una corrente in **Ampere**, **m** una distanza in **metri**.
 
