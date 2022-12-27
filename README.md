@@ -23,5 +23,6 @@ T = N / (A m)
 #
 dove **N** = è una forza in **Newton**, **A** una corrente in **Ampere**, **m** una distanza in **metri**.
 
+#
+Forza = k * i<sub>1</sub> * i<sub>2</sub> * l / d
 
-Forza = k * i[sub]1[/sub] * i[sub]2[/sub]
