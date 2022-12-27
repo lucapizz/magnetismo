@@ -22,7 +22,7 @@ Ricordare che l'unità di misura Tesla è composta come segue:
 T = N / (A m) = Newton / (Ampere * metro)
 #
 dove **N** = è una forza in **Newton**, **A** una corrente in **Ampere**, **m** una distanza in **metri**.
-# Forza tra due fili con corrente
+# Forza tra due fili percorsi da corrente
 Forza = k * i<sub>1</sub> * i<sub>2</sub> * l / d
 #
 dove k = 2 * 10<sup>-7</sup> [Newton / Ampere<sup>2</sup>], l = lunghezza comune ai due fili, d = distanza tra i due fili
