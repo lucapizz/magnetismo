@@ -17,6 +17,9 @@ Abbiamo dunque una corrispondenza diretta di seguito riportata:
 0,0005 T = 0,5 mT =  5 gauss = 400 A/m
 
 #
-
-T = N / (A m) dove N = è una forza in Newton, A una corrente in Ampere, m una distanza in metri.
+Ricordare che l'unità di misura Tesla è composta come segue:
+#
+T = N / (A m)
+#
+dove N = è una forza in Newton, A una corrente in Ampere, m una distanza in metri.
 
