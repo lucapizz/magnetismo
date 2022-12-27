@@ -23,6 +23,12 @@ T = N / (A m)
 #
 dove **N** = è una forza in **Newton**, **A** una corrente in **Ampere**, **m** una distanza in **metri**.
 
+# T
+L'unità di misura Tesla è così composta:
+#
+T = Newton /(Ampere * metro)
 #
 Forza = k * i<sub>1</sub> * i<sub>2</sub> * l / d
+#
+dove k = 2 * 10<sup>-7</sup> [Newton / Ampere<sup>2</sup>]
 
