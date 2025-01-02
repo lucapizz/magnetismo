@@ -71,6 +71,9 @@ curvo, a zig zag o in linea retta, conta la distanza percorsa dalla corrente.
 <br> 1 T = 1 N / (A⋅m)
 <br> 1 T = 1 Kg / (A⋅s²)
 
+Si misura anche in Gauss [G] con i seguenti rappori
+<br> 1[T] = 10000[G]
+<br> 1m[T] = 10[G]
 
 (L) induttanza espressa in Henry<br>
 [H] unità di misura dell'induttanza che induce la caduta di 1[Volt] se percorsa
