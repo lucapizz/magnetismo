@@ -7,7 +7,7 @@ La forza di una elettrocalamita?
 
 Si misura in TESLA e si indica con la lettera T e quindi si usano i sottomultipli, ad esempio mT (milliTesla).
 
-Si misurano anche in gauss e in Ampere al metro.
+Si misurano anche in gauss e e sono proporzionali all'intensità in Ampere al metro.
 Abbiamo dunque una corrispondenza diretta di seguito riportata:
 #
 0,0035 T = 3,5 mT = 35 gauss = circa 2800 A/m
