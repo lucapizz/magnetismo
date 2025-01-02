@@ -91,7 +91,6 @@ da una variazione di corrente di 1[Ampere] per 1[secondo].
 
 (H) intensità del campo magnetico espressa in Ampere al metro<br>
 [A/m] unità di misura dell'intensità magnetica
-
 <br> H =    B      /   u
 <br>   = [N/(A⋅m)] / [H/m] = [N/(A⋅m)] [A⋅A⋅m/(N⋅m)] = [A/m]
 
