@@ -27,9 +27,7 @@ dove k = 2 * 10<sup>-7</sup> [Newton / Ampere<sup>2</sup>], L = lunghezza comune
 
 perché k = permeabilità magnetica del vuoto / (2 pigreco)
 
-#
-B = u<sub>0</sub> * N * I / lung
-dove u<sub>0</sub> [T * m / A]
+
 
 # Flusso magnetico (fi)
 Con flusso magnetico invece si indica quanto campo magnetico attraversa una superficie.
