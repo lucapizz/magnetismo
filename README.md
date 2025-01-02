@@ -17,11 +17,9 @@ Abbiamo dunque una corrispondenza diretta di seguito riportata:
 0,0005 T = 0,5 mT =  5 gauss = circa 400 A/m
 
 # T
-Ricordare che l'unità di misura Tesla è composta come segue:
-#
-T = N / (A m) = Newton / (Ampere * metro)
-#
-dove **N** = è una forza in **Newton**, **A** una corrente in **Ampere**, **m** una distanza in **metri**.
+Ricordare che l'unità di misura Tesla è una misura di densità.
+
+
 # Forza tra due fili percorsi da corrente
 Forza = k * i<sub>1</sub> * i<sub>2</sub> * L / d
 #
@@ -85,7 +83,7 @@ da una variazione di corrente di 1[Ampere] per 1[secondo].
 
 
 (fi) flusso magnetico espresso in Weber<br>
-[Wb] unità di misura del flusso magnetico che attraversa una superficie
+[Wb] unità di misura del flusso magnetico che attraversa una superficie perpendicolarmente
 <br> fi = B[T] ⋅ Area[m²]
 <br>     [N⋅m²/(A⋅m)] = [N⋅m/A]
 
