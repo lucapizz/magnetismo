@@ -43,7 +43,7 @@ dove
 # Definizioni delle unità di misura nel Sistema Internazionale (SI).
 
 
-(f) forza espressa in Newton
+(f) forza espressa in Newton<br>
 [N] unità di misura della forza 
 necessaria per accelerare una massa da un chilogrammo (Kg)
 di un metro al secondo quadrato (m/s²)
