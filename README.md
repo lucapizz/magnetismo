@@ -24,6 +24,9 @@ Ricordare che l'unità di misura Tesla è una misura di densità.
 Forza = k * i<sub>1</sub> * i<sub>2</sub> * L / d
 #
 dove k = 2 * 10<sup>-7</sup> [Newton / Ampere<sup>2</sup>], L = lunghezza comune ai due fili, d = distanza tra i due fili
+
+perché k = \mu /(2pigreco)
+
 #
 B = u<sub>0</sub> * N * I / lung
 dove u<sub>0</sub> [T * m / A]
