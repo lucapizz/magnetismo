@@ -44,6 +44,7 @@ dove
 
 
 (f) forza espressa in Newton
+
 [N] unità di misura della forza 
 necessaria per accelerare una massa da un chilogrammo (Kg)
 di un metro al secondo quadrato (m/s²)
