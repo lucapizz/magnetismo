@@ -47,28 +47,28 @@ dove
 [N] unità di misura della forza 
 necessaria per accelerare una massa da un chilogrammo (Kg)
 di un metro al secondo quadrato (m/s²)
-1 N = 1 Kg⋅m/s²
-
+<br>1 N = 1 Kg⋅m/s²
+<br>
 In altre parole, un newton è la forza che, applicata a un oggetto con una
 massa di un chilogrammo, produce un'accelerazione di un metro al secondo quadrato.
 Poi l'accelerazione gravitazionale sulla terra vale g = 9,8[m/s²]
-quindi 0,98[N] = 0,1[Kg]
-mentre 1,00[N] = 0,10204816...[Kg]
+<br>quindi 0,98[N] = 0,1[Kg]
+<br>mentre 1,00[N] = 0,10204816...[Kg]
 
-(Q) carica elettrica espressa in Coulomb
+(Q) carica elettrica espressa in Coulomb<br>
 [C] unità di misura della carica elettrica
- 1 C = 1 A⋅s
+<br> 1 C = 1 A⋅s
 
-(B) espresso in Tesla
+(B) espresso in Tesla<br>
 [T] unità di misura del campo magnetico (o induzione magnetica) ossia
 la densità del flusso magnetico (B).
-1[T] = Campo magnetico che genera 1[N] di forza su una carica di 1[C] che si muove in
+<br> 1[T] = Campo magnetico che genera 1[N] di forza su una carica di 1[C] che si muove in
 modo perpendicolare al campo con velocità di 1[m/s] per un percorso di 1 m della corrente.
-Immaginando un filo disteso su un piano, la lunghezza del filo di 1m può anche essere
+<br>Immaginando un filo disteso su un piano, la lunghezza del filo di 1m può anche essere
 curvo, a zig zag o in linea retta, conta la distanza percorsa dalla corrente.
- 1 T = 1 N / (C⋅m/s)
- 1 T = 1 N / (A⋅m)
- 1 T = 1 Kg / (A⋅s²)
+<br> 1 T = 1 N / (C⋅m/s)
+<br> 1 T = 1 N / (A⋅m)
+<br> 1 T = 1 Kg / (A⋅s²)
 
 
 (L) induttanza espressa in Henry
