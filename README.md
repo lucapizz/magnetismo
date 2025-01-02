@@ -39,4 +39,60 @@ dove
  - B è il campo magnetico
  - alfa è l'angolo tra campo magnetico e perpendicolare alla superficie
 
+#
+# Definizioni delle unità di misura nel Sistema Internazionale (SI).
+
+
+(f) forza espressa in Newton
+[N] unità di misura della forza 
+necessaria per accelerare una massa da un chilogrammo (Kg)
+di un metro al secondo quadrato (m/s²)
+1 N = 1 Kg⋅m/s²
+
+In altre parole, un newton è la forza che, applicata a un oggetto con una
+massa di un chilogrammo, produce un'accelerazione di un metro al secondo quadrato.
+Poi l'accelerazione gravitazionale sulla terra vale g = 9,8[m/s²]
+quindi 0,98[N] = 0,1[Kg]
+mentre 1,00[N] = 0,10204816...[Kg]
+
+(Q) carica elettrica espressa in Coulomb
+[C] unità di misura della carica elettrica
+ 1 C = 1 A⋅s
+
+(B) espresso in Tesla
+[T] unità di misura del campo magnetico (o induzione magnetica) ossia
+la densità del flusso magnetico (B).
+1[T] = Campo magnetico che genera 1[N] di forza su una carica di 1[C] che si muove in
+modo perpendicolare al campo con velocità di 1[m/s] per un percorso di 1 m della corrente.
+Immaginando un filo disteso su un piano, la lunghezza del filo di 1m può anche essere
+curvo, a zig zag o in linea retta, conta la distanza percorsa dalla corrente.
+ 1 T = 1 N / (C⋅m/s)
+ 1 T = 1 N / (A⋅m)
+ 1 T = 1 Kg / (A⋅s²)
+
+
+(L) induttanza espressa in Henry
+[H] unità di misura dell'induttanza che induce la caduta di 1[Volt] se percorsa
+da una variazione di corrente di 1[Ampere] per 1[secondo].
+ 1 H = 1 V s / A   (relazione elettrica)
+ 1 H = 1 N m / A²  (relazione magnetica)
+
+
+(u) permeabilità magnetica espressa in Henry / metro
+[H/m] per similitudine con la conduttanza elettrica
+costante nel vuoto u = 4 pigreco / 10000000 [H/m]
+cambia per ogni materiale, nell'aria è quasi uguale al vuoto
+
+
+(fi) flusso magnetico espresso in Weber
+[Wb] unità di misura del flusso magnetico che attraversa una superficie
+ fi = B[T] Area[m²]
+     [N m² / (A m)] = [N m / A]
+
+(H) intensità del campo magnetico espressa in [Ampere al metro]
+[A/m] unità di misura dell'intensità magnetica
+
+ H =    B      /   u
+   = [N/(A m)] / [H/m] = [N/(A m)] [A A m / (N m)] = [A/m]
+
 
