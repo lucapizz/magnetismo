@@ -28,14 +28,14 @@ dove k = 2 * 10<sup>-7</sup> [Newton / Ampere<sup>2</sup>], L = lunghezza comune
 B = u<sub>0</sub> * N * I / lung
 dove u<sub>0</sub> [T * m / A]
 
-# Flusso magnetico (Fi)
+# Flusso magnetico (fi)
 Con flusso magnetico invece si indica quanto campo magnetico attraversa una superficie.
 #
-Fi = B * Area * cos(alfa)
+fi = B * Area * cos(alfa)
 
 dove
- - B è il campo magnetico
- - alfa è l'angolo tra campo magnetico e perpendicolare alla superficie
+ - B è la densità del campo magnetico
+ - alfa è l'angolo tra campo magnetico e superficie
 
 #
 # Definizioni delle unità di misura nel Sistema Internazionale (SI).
