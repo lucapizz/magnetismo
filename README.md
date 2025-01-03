@@ -111,6 +111,6 @@ fi[Wb] = Area [m²] ⋅ u[H/m] ⋅ H[A/m] <br>
 fi[Wb] = Area [m²] ⋅ u[H/m] ⋅ i[A] ⋅ n[1/m] <br> 
 
 Quindi aumentando le spire aumenta H e diminuisce Area, ma dato che raddoppiando
-le spire l'Area non si dimezza avremo un aumento del flusso[Wb].
+le spire l'Area non si dimezza avremo che il flusso[Wb] complessivo aumenta.
 
 
