@@ -103,14 +103,14 @@ H[A/m] = i[A] ⋅ n[1/m]
 Dunque, ora immaginando di fare una sola spira con un filo lungo un metro,
 si ottiene un certo valore di H che dipende dalla corrente.
 <br>Facendo invece due spire con lo stesso metro di filo, si raddoppia il
-valore di H e si diminuisce l'area circoscritta dalle spire.
-<br>In tal modo aumenta la densità magnetica B = u ⋅ H e quindi il flusso.
+valore di H e si dimezza l'area circoscritta dalle spire.
+<br>In tal modo aumenta la densità magnetica B = u ⋅ H ma non il flusso
+che rimane costante.
 
 fi[Wb] = Area [m²] ⋅ B[T] <br>
 fi[Wb] = Area [m²] ⋅ u[H/m] ⋅ H[A/m] <br> 
 fi[Wb] = Area [m²] ⋅ u[H/m] ⋅ i[A] ⋅ n[1/m] <br> 
 
-Quindi aumentando le spire aumenta H e diminuisce Area, ma dato che raddoppiando
-le spire l'Area non si dimezza avremo che il flusso[Wb] complessivo aumenta.
+
 
 
