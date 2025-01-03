@@ -97,7 +97,7 @@ da una variazione di corrente di 1[Ampere] per 1[secondo].
 <br>   = [N/(A⋅m)] / [H/m] = [N/(A⋅m)] [A⋅A⋅m/(N⋅m)] = [A/m]
 
 H[A/m] = i[A] ⋅ n[1/m]
-<br>dove n rappresenta il numero di spire al metro (lunghezza del filo)
+<br>dove "n" rappresenta il numero di spire al metro (lunghezza del filo)
 #
 Dunque, ora immaginando di fare una sola spira con un filo lungo un metro
 si ottiene un certo valore di H che dipende dalla corrente.
