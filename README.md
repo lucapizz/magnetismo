@@ -111,6 +111,7 @@ fi[Wb] = Area [m²] ⋅ B[T] <br>
 fi[Wb] = Area [m²] ⋅ u[H/m] ⋅ H[A/m] <br> 
 fi[Wb] = Area [m²] ⋅ u[H/m] ⋅ i[A] ⋅ n[1/m] <br> 
 
-
+Quando si fa un solenoide con varie spire quindi, si mantiene la stessa area
+ma si aumenta la lunghezza del filo che aumenta B[T], H[A/m] e fi[Wb].
 
 
