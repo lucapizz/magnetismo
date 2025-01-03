@@ -97,6 +97,8 @@ da una variazione di corrente di 1[Ampere] per 1[secondo].
 <br>   = [N/(A⋅m)] / [H/m] = [N/(A⋅m)] [A⋅A⋅m/(N⋅m)] = [A/m]
 
 H[A/m] = I[A] ⋅ n[1/m]
-dove n rappresenta il numero di spire al metro (lunghezza del filo)
+<br>dove n rappresenta il numero di spire al metro (lunghezza del filo)
+
+d
 
 
